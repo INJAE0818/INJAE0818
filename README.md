@@ -80,28 +80,10 @@
 <table>
   <thead>
     <tr>
-      <th>Org.</th>
-      <th>Description</th>
-      <th>Period</th>
+      <th></th>
+      <th></th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
 </table>
 </div>
 
