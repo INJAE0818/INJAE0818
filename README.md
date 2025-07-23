@@ -8,7 +8,7 @@
 
 ---
 
-<h2 aligh = "center"> 📜 Certification</h2>
+<h2 align = "center"> 📜 Certification</h2>
 <table align="center">
   <tr>
     <td>
@@ -25,7 +25,7 @@
 
 ---
 
-<h2 aligh = "center"> 📖 Who am I in career</h2>
+<h2 align = "center"> 📖 Who am I in career</h2>
 
 | Org.                              | Description                                                       | Period       |
 |----------------------------------|-------------------------------------------------------------------|--------------|
@@ -37,7 +37,7 @@
 
 ---
 
-<h2 aligh = "center">💻 Main Tech Stack </h2>
+<h2 align = "center">💻 Main Tech Stack </h2>
 
 <p align="center">
   <!-- 1줄 -->
@@ -54,7 +54,7 @@
 
 ---
 
-<h2 aligh = "center">📌 Sub Tech Stack </h2>
+<h2 align = "center">📌 Sub Tech Stack </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
