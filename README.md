@@ -3,8 +3,7 @@
 <!-- 애니메이션 텍스트 + 버튼 UI (README.md용) -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=5FB2FF&center=true&width=700&lines=AGILITY%2C+CLARITY%2C+TENACITY+LIKEHENRY%3B+" /><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=5FB2FF&center=true&width=700&lines=ALWAYS+ADAPTING" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=28&pause=1000&color=5FB2FF&center=true&width=700&lines=AGILITY+CLARITY+TENACITY+ALWAYSADAPTING" /><br/>
 </h1>
 
 
