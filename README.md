@@ -19,13 +19,10 @@
 </div>
 
 
-<p align="center">
-  Passionate about Cloud Infrastructure, DevOps, and Software Engineering ☁️
-</p>
+<br/><br/>
 
 
-
-<h2 align = "center"> 📜 Certification</h2>
+<h2 align = "center"> 📜자격증</h2>
 <table align="center">
   <tr>
     <td>
@@ -43,7 +40,7 @@
 
 
 
-<h2 align="center">📖 Who am I in career</h2>
+<h2 align="center">클라우드 커리어어</h2>
 
 <div align="center">
 
