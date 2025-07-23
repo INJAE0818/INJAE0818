@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/134813596/276651291-49c3b6b7-2103-463e-a53f-6b561e6c26fd.png" width="250"/>
+      <img src="https://user-images.githubusercontent.com/134813596/276652998-1e145443-1456-4df2-b5dc-7e3b3045c90a.png" width="250"/>
     </td>
     <td>
       <a href="https://training.linuxfoundation.org/certification/ckad/">🐳 CKAD: Certified Kubernetes Application Developer</a><br/>
