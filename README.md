@@ -110,6 +110,6 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: 7evenmesrize@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 - 📝 Blog: [yourblog.dev](https://yourblog.dev)
