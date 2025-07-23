@@ -1,10 +1,15 @@
-## 🏆 Awards
-
-
 ## 📜 Certification
 
-- 🎓 <a href="https://www.credly.com/badges/9d152d86-d8b5-48e6-854f-c7c4131955af">CCP: AWS Certified Cloud Practitioner</a>  
-  <i>Cloud Practitioner Foundational</i>  
-  <b>Issued:</b> 2025.03 &nbsp;&nbsp; <b>Expires:</b> 2028.03  
-  <b>ID:</b> LF-nsqtqy18wu  
-  <img src="https://user-images.githubusercontent.com/00000000/00000000/ckad-cert.png" alt="CCP Certificate" width="400"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/12345678/ckad-cert.png" width="250"/>
+    </td>
+    <td>
+      <a href="https://training.linuxfoundation.org/certification/ckad/">👨‍💻 CKAD: Certified Kubernetes Application Developer</a><br/>
+      <b>The Linux Foundation</b><br/>
+      <b>Issued:</b> 2024.09 &nbsp;&nbsp; <b>Expires:</b> 2026.09<br/>
+      <b>ID:</b> <code>LF-nsqtqy18wu</code>
+    </td>
+  </tr>
+</table>
