@@ -22,7 +22,7 @@
 <br/><br/>
 
 
-<p align = "center"> 📜CERTIFICATION</p>
+<h2 align = "center"> 📜CERTIFICATION</h2>
 <table align="center">
   <tr>
     <td>
