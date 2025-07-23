@@ -38,9 +38,10 @@
 </table>
 
 
+<br/><br/>
 
 
-<h2 align="center">MyCareer</h2>
+<h2 align="center">My Career</h2>
 
 <div align="center">
 
@@ -72,6 +73,8 @@
 </table>
 </div>
 
+<br/><br/>
+
 <h2 align="center">Awards</h2>
 <div align="center">
 <table>
@@ -102,6 +105,8 @@
 </table>
 </div>
 
+<br/><br/>
+ 
 <h2 align="center">🛠️ Main Tech Stack</h2>
 
 <p align="center">
@@ -131,6 +136,7 @@
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+<br/><br/>
 
 
 
