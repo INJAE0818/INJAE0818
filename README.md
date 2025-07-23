@@ -3,7 +3,7 @@
 <!-- 애니메이션 텍스트 + 버튼 UI (README.md용) -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&width=800&lines=🔥+I+LOVE+CLOUD;☁️+INFRASTRUCTURE+IS+MY+PLAYGROUND" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&width=800&lines=🔥+I+LOVE+CLOUD;" />
 </h1>
 
 <div align="center">
@@ -70,19 +70,19 @@
       <td>25.01 ~ 25.02</td>
     </tr>
     <tr>
-      <td><b></b></td>
-      <td>과기정통부 주관 소프트웨어 인재 발굴 프로그램</td>
-      <td>23.03 ~ 23.12</td>
+      <td><b>마이크로디그리를 통한 초급 클라우드 교육 수료</b></td>
+      <td></td>
+      <td>25.01 ~ 25.02</td>
     </tr>
     <tr>
-      <td><b>Architecture on AWS Education</b></td>
-      <td>AWS VPC to EKS 클라우드 서비스 교육 수료</td>
+      <td><b>wemeet project</b></td>
+      <td>LLM 기반 Azure 솔루션 및 AI 기반 학습용 웹툰 제작(기초·심화) 과정 수강</td>
       <td>23.07</td>
     </tr>
     <tr>
-      <td><b>Design Thinking - SAP App Haus</b></td>
-      <td>SAP App Haus 주관 Design Thinking 교육 수료</td>
-      <td>23.05</td>
+      <td><b></b></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
