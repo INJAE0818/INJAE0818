@@ -85,6 +85,22 @@
       <th>Period.</th>
     </tr>
   </thead>
+  <tbody></tbody>
+</table>
+</div>
+
+<br/><br/>
+
+<h2 align="center">When I was University .. </h2>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Title.</th>
+      <th>Descrip.</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
 </table>
 </div>
 
