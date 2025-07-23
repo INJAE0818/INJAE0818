@@ -1,6 +1,30 @@
 <!-- GitHub Profile README.md 예시 -->
 
-<h1 align="center">Hi 👋 I'm Choi InJAE!!</h1>
+<!-- 애니메이션 텍스트 + 버튼 UI (README.md용) -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&width=800&lines=🔥+I+LOVE+CLOUD;☁️+INFRASTRUCTURE+IS+MY+PLAYGROUND" />
+</h1>
+
+<div align="center">
+
+  <!-- 이력서 다운로드 버튼 -->
+  <a href="https://your-link.com/resume.pdf" download>
+    <img src="https://img.shields.io/badge/RESUME-gray?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  </a>
+
+  <!-- 클릭 유도 버튼 -->
+  <a href="https://your-link.com/click">
+    <img src="https://img.shields.io/badge/CLICK%20HERE-limegreen?style=for-the-badge&logo=cursor&logoColor=white"/>
+  </a>
+
+  <!-- 포트폴리오 다운로드 버튼 -->
+  <a href="https://your-link.com/portfolio.pdf" download>
+    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-blue?style=for-the-badge&logo=book&logoColor=white"/>
+  </a>
+
+</div>
+
 
 <p align="center">
   Passionate about Cloud Infrastructure, DevOps, and Software Engineering ☁️
@@ -41,17 +65,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>SAMSUNG SDS</b></td>
-      <td>SAMSUNG SDS Software Engineer</td>
-      <td>25.01 ~</td>
+      <td><b></b></td>
+      <td>aws교육 및 aws방문</td>
+      <td>25.01 ~ 25.02</td>
     </tr>
     <tr>
-      <td><b>SAMSUNG SDS Internship</b></td>
-      <td>통합 Mgmt Appl Svc. 팀 인턴 수료</td>
-      <td>24.07 ~ 24.08</td>
-    </tr>
-    <tr>
-      <td><b>Software Maestro 14th</b></td>
+      <td><b></b></td>
       <td>과기정통부 주관 소프트웨어 인재 발굴 프로그램</td>
       <td>23.03 ~ 23.12</td>
     </tr>
