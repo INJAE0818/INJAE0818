@@ -2,9 +2,13 @@
 
 <!-- 애니메이션 텍스트 + 버튼 UI (README.md용) -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=539BF5&center=true&width=1000&lines=AGILITY,+CLARITY,+TENACITY,+LIKE+HENRY;+ALWAYS+ADAPTING" />
+<h1 align="center" style="color:#539BF5; font-family:Fira Code;">
+  AGILITY, CLARITY, TENACITY, LIKE HENRY
 </h1>
+<h2 align="center" style="color:#539BF5; font-family:Fira Code;">
+  ALWAYS ADAPTING
+</h2>
+
 
 
 
