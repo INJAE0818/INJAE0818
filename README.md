@@ -4,10 +4,9 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=539BF5&center=true&width=1000&lines=AGILITY,+CLARITY,+TENACITY,+LIKEHENRY" />
+  <img2 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=539BF5&center=true&width=1000&lines=ALWAYS+ADAPTING" />
 </h1>
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=539BF5&center=true&width=1000&lines=ALWAYS+ADAPTING" />
-</h2>
+
 
 
 
