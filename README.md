@@ -83,36 +83,36 @@
 </div>
 
 
-<h2 align = "center">💻 Main Tech Stack </h2>
+<h2 align="center">🛠️ Main Tech Stack</h2>
 
 <p align="center">
-  <!-- 1줄 -->
   <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <br/><br/>
-  <!-- 2줄 -->
-  <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APACHE%20KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SHELL-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLOUDWATCH-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
-
-
-<h2 align = "center">📌 Sub Tech Stack </h2>
+<h2 align="center">📌 Sub Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EXPRESS.TS-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BLOCKCHAIN-121212?style=for-the-badge"/>
-   <br/><br/>
-  <img src="https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IOT-0088CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
 
 
 
