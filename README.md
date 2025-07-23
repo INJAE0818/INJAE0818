@@ -80,8 +80,9 @@
 <table>
   <thead>
     <tr>
-      <th></th>
-      <th></th>
+      <th>Title.</th>
+      <th>Org.</th>
+      <th>Period.</th>
     </tr>
   </thead>
 </table>
