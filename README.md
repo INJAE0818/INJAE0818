@@ -64,8 +64,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><b></b></td>
-      <td>aws교육 및 aws방문</td>
+      <td><b>AWS Education</b></td>
+      <td>aws 시험 공부 및 aws방문</td>
       <td>25.01 ~ 25.02</td>
     </tr>
     <tr>
@@ -76,16 +76,10 @@
     <tr>
       <td><b>wemeet project</b></td>
       <td>LLM 기반 Azure 솔루션 및 AI 기반 학습용 웹툰 제작(기초·심화) 과정 수강</td>
-      <td>23.07</td>
-    </tr>
-    <tr>
-      <td><b></b></td>
-      <td></td>
-      <td></td>
+      <td>23.05~25.07</td>
     </tr>
   </tbody>
 </table>
-
 </div>
 
 
