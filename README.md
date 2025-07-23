@@ -1,6 +1,6 @@
 <!-- GitHub Profile README.md 예시 -->
 
-<h1 align="center">Hi 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi 👋 I'm Choi InJAE!!</h1>
 
 <p align="center">
   Passionate about Cloud Infrastructure, DevOps, and Software Engineering ☁️
@@ -11,17 +11,6 @@
 ## 📜 Certification
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/1aa38d3c-f474-45e4-8f46-4c5b80228ffa" width="250"/>
-    </td>
-    <td>
-      <a href="https://training.linuxfoundation.org/certification/ckad/"><b>CKAD: Certified Kubernetes Application Developer</b></a><br/>
-      The Linux Foundation<br/>
-      <b>Issued:</b> 2024.09 &nbsp;&nbsp; <b>Expires:</b> 2026.09<br/>
-      <b>ID:</b> <code>LF-nsgtay18wu</code>
-    </td>
-  </tr>
   <tr>
     <td>
       <img src="https://github.com/user-attachments/assets/1aa38d3c-f474-45e4-8f46-4c5b80228ffa" width="250"/>
@@ -51,16 +40,26 @@
 
 ## 💻 Main Tech Stack
 
-<p>
+<!-- 첫 줄: 정렬 없음 (중앙) -->
+<div style="text-align: center; margin-left: 0px;">
   <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+<!-- 두 번째 줄: 약간 들여쓰기 -->
+<div style="text-align: center; margin-left: 40px;">
   <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</div>
+
+<!-- 세 번째 줄: 더 들여쓰기 -->
+<div style="text-align: center; margin-left: 80px;">
   <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/APACHE%20KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge"/>
-</p>
+</div>
+
 
 ---
 
