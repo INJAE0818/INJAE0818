@@ -40,25 +40,21 @@
 
 ## 💻 Main Tech Stack
 
-<!-- 첫 줄: 정렬 없음 (중앙) -->
-<div style="text-align: center; margin-left: 0px;">
+<p align="center">
+  <!-- 1줄 -->
   <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
-
-<!-- 두 번째 줄: 약간 들여쓰기 -->
-<div style="text-align: center; margin-left: 40px;">
   <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <br/><br/>
+  <!-- 2줄 -->
   <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</div>
-
-<!-- 세 번째 줄: 더 들여쓰기 -->
-<div style="text-align: center; margin-left: 80px;">
   <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/APACHE%20KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge"/>
-</div>
+  <br/><br/>
+  
+</p>
+
 
 
 ---
