@@ -27,15 +27,49 @@
 
 <h2 align = "center"> 📖 Who am I in career</h2>
 
-| Org.                              | Description                                                       | Period       |
-|----------------------------------|-------------------------------------------------------------------|--------------|
-| **SAMSUNG SDS**                  | SAMSUNG SDS Software Engineer                                     | 25.01 ~      |
-| **SAMSUNG SDS Internship**       | 통합 Mgmt Appl Svc. 팀 인턴 수료                                  | 24.07 ~ 24.08 |
-| **Software Maestro 14th**        | 과기정통부 주관 소프트웨어 인재 발굴 프로그램                    | 23.03 ~ 23.12 |
-| **Architecture on AWS Education**| AWS VPC to EKS 클라우드 서비스 교육 수료                          | 23.07        |
-| **Design Thinking - SAP App Haus**| SAP App Haus 주관 Design Thinking 교육 수료                      | 23.05        |
+<h2 align="center">📖 Who am I in career</h2>
 
----
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Org.</th>
+      <th>Description</th>
+      <th>Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>SAMSUNG SDS</b></td>
+      <td>SAMSUNG SDS Software Engineer</td>
+      <td>25.01 ~</td>
+    </tr>
+    <tr>
+      <td><b>SAMSUNG SDS Internship</b></td>
+      <td>통합 Mgmt Appl Svc. 팀 인턴 수료</td>
+      <td>24.07 ~ 24.08</td>
+    </tr>
+    <tr>
+      <td><b>Software Maestro 14th</b></td>
+      <td>과기정통부 주관 소프트웨어 인재 발굴 프로그램</td>
+      <td>23.03 ~ 23.12</td>
+    </tr>
+    <tr>
+      <td><b>Architecture on AWS Education</b></td>
+      <td>AWS VPC to EKS 클라우드 서비스 교육 수료</td>
+      <td>23.07</td>
+    </tr>
+    <tr>
+      <td><b>Design Thinking - SAP App Haus</b></td>
+      <td>SAP App Haus 주관 Design Thinking 교육 수료</td>
+      <td>23.05</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 <h2 align = "center">💻 Main Tech Stack </h2>
 
