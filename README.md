@@ -30,7 +30,7 @@
   Passionate about Cloud Infrastructure, DevOps, and Software Engineering ☁️
 </p>
 
----
+
 
 <h2 align = "center"> 📜 Certification</h2>
 <table align="center">
@@ -47,7 +47,7 @@
   </tr>
 </table>
 
----
+
 
 
 <h2 align="center">📖 Who am I in career</h2>
@@ -98,7 +98,7 @@
   <img src="https://img.shields.io/badge/APACHE%20KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
 
----
+
 
 <h2 align = "center">📌 Sub Tech Stack </h2>
 
@@ -114,7 +114,7 @@
   <img src="https://img.shields.io/badge/REACT.JS-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
----
+
 
 ## 📫 Contact Me
 
