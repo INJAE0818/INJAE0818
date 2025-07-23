@@ -22,7 +22,7 @@
 <br/><br/>
 
 
-<h2 align = "center"> 📜CERTIFICATION</h2>
+<h2 align = "center"> 📜Certification</h2>
 <table align="center">
   <tr>
     <td>
@@ -40,7 +40,7 @@
 
 
 
-<h2 align="center">클라우드 커리어어</h2>
+<h2 align="center">MyCareer</h2>
 
 <div align="center">
 
@@ -72,6 +72,35 @@
 </table>
 </div>
 
+<h2 align="center">Awards</h2>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Org.</th>
+      <th>Description</th>
+      <th>Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 <h2 align="center">🛠️ Main Tech Stack</h2>
 
