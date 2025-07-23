@@ -49,7 +49,6 @@
 
 ---
 
-<h2 align = "center"> 📖 Who am I in career</h2>
 
 <h2 align="center">📖 Who am I in career</h2>
 
