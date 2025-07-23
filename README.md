@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm choji</h1>
 
-- 🔭 I’m currently working on **Voice Diary AI Project**
 - 🌱 I’m currently learning **React Native, FastAPI, AWS**
 - 📝 I regularly write tech articles on [Notion](https://www.notion.so/yourpage)
-- 📫 How to reach me **your_email@example.com**
-- ⚡ Fun fact **I love coding at night 🌙**
+- 📫 How to reach me **choji9030@gmail.com**
+- ⚡ Fun fact **I love ARSENAL!**
 
 ---
 
