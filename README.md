@@ -3,7 +3,7 @@
 <!-- 애니메이션 텍스트 + 버튼 UI (README.md용) -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&width=800&lines=Flexible + Aware. People-first + Always adapting;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&width=800&lines=Flexible. Aware. People-first. Always adapting;" />
 </h1>
 
 <div align="center">
