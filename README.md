@@ -65,24 +65,28 @@
 <h2 align="center">🏆 Awards</h2>
 
 <div align="center">
-
 <table>
   <thead>
-   <tr>
+    <tr>
+      <th>Title</th>
+      <th>Org.</th>
+      <th>Period</th>
+    </tr>
+  </thead>
+
+  <tbody>
+
+    <tr>
   <td><b>HYCA-TOPCIT SW융합인 선정</b></td>
   <td>한양대학교 SW중심대학 · 우수 SW 인재 포상</td>
   <td>2025.12</td>
 </tr>
 
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="3" align="center"><i>No awards listed yet.</i></td>
-    </tr>
+
   </tbody>
 </table>
-
 </div>
+
 
 <br><br>
 
