@@ -68,11 +68,12 @@
 
 <table>
   <thead>
-    <tr>
-      <th>Title</th>
-      <th>Org.</th>
-      <th>Period</th>
-    </tr>
+   <tr>
+  <td><b>HYCA-TOPCIT SW융합인 선정</b></td>
+  <td>한양대학교 SW중심대학 · 우수 SW 인재 포상</td>
+  <td>2025.12</td>
+</tr>
+
   </thead>
   <tbody>
     <tr>
