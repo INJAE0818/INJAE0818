@@ -1,4 +1,8 @@
-<h1 align="center"> Hi there, I'm 채은 👋 </h1> <br> <p align="center"> Cloud · DevOps · AWS Learner <br/> Automating infrastructure, observing systems, and writing things down. </p> <br/> <div align="center"> <!-- 이력서 다운로드 버튼 --> <a href="https://your-link.com/resume.pdf" download> <img src="https://img.shields.io/badge/RESUME-gray?style=for-the-badge&logo=read-the-docs&logoColor=white"/> </a> <!-- 클릭 유도 버튼 (Notion / 포트폴리오 홈 등으로 연결 추천) --> <a href="https://your-link.com/click"> <img src="https://img.shields.io/badge/CLICK%20HERE-limegreen?style=for-the-badge&logo=cursor&logoColor=white"/> </a> <!-- 포트폴리오 버튼 --> <a href="https://your-link.com/portfolio.pdf" download> <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-blue?style=for-the-badge&logo=book&logoColor=white"/> </a> </div>
+<h1 align="center"> Hi there, I'm 인재 👋 
+</h1> 
+<br> <p align="center"> Cloud · DevOps · AWS Learner <br/> Automating infrastructure, observing systems, and writing things down. </p> <br/> 
+
+<div align="center"> <!-- 이력서 다운로드 버튼 --> <a href="https://your-link.com/resume.pdf" download> <img src="https://img.shields.io/badge/RESUME-gray?style=for-the-badge&logo=read-the-docs&logoColor=white"/> </a> <!-- 클릭 유도 버튼 (Notion / 포트폴리오 홈 등으로 연결 추천) --> <a href="https://your-link.com/click"> <img src="https://img.shields.io/badge/CLICK%20HERE-limegreen?style=for-the-badge&logo=cursor&logoColor=white"/> </a> <!-- 포트폴리오 버튼 --> <a href="https://your-link.com/portfolio.pdf" download> <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-blue?style=for-the-badge&logo=book&logoColor=white"/> </a> </div>
 
 <br/><br/>
 
