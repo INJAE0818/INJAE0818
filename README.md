@@ -64,7 +64,7 @@
 <h2 align="center">🏆 Awards</h2>
 
 <div align="center">
-<table>
+<table style="width:80%; min-width:300px;">
   <thead>
     <tr>
       <th>Title</th>
@@ -74,17 +74,15 @@
   </thead>
 
   <tbody>
-
     <tr>
-  <td><b>HYCA-TOPCIT SW융합인 선정</b></td>
-  <td>한양대학교 SW중심대학 · 우수 SW 인재 포상</td>
-  <td>2025.12</td>
-</tr>
-
-
+      <td><b>HYCA-TOPCIT SW융합인 선정</b></td>
+      <td>Hanyang Univ. SW중심대학 · 우수 SW 인재 포상</td>
+      <td>2025.12</td>
+    </tr>
   </tbody>
 </table>
 </div>
+
 
 
 <br><br>
