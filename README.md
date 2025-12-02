@@ -62,6 +62,11 @@
 
   <tbody>
     <tr>
+      <td><b>ERICA Library Annual Awards</b></td>
+      <td>Hanyang Univ. ERICA 학술정보관 · 우수 이용자 선정</td>
+      <td>2024.12</td>
+    </tr>
+    <tr>
       <td><b>HYCA-TOPCIT SW융합인 선정</b></td>
       <td>Hanyang Univ. SW중심대학 · 우수 SW 인재 포상</td>
       <td>2025.12</td>
