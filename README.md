@@ -1,13 +1,6 @@
-<h1 align="center"> Hi, I'm 인재 👋 </h1>
-
-<p align="center">
-  Cloud · DevOps · AWS Learner  
-  <br/>
-  Automating infrastructure, observing systems, and writing things down.
-</p>
+<h1 align="center"> Hello INJAE! 👋 </h1>
 
 <br>
-
 <div align="center">
   <a href="https://your-link.com/resume.pdf" download>
     <img src="https://img.shields.io/badge/RESUME-555?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
