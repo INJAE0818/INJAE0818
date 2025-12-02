@@ -23,8 +23,7 @@
 
 <p align="center">
   <i>"Shell smashed, juices flowing, wings twitch."</i><br/>
-  시스템의 본질을 보고, 혼란을 질서로 만들고자 하는 엔지니어입니다.
-</p>
+  떨리더라도 한 걸음 더 나아가는 용기를 가진 엔지니어입니다.</p>
 
 <br><br>
 
