@@ -50,49 +50,37 @@
 
 <br><br>
 
-<h2 align="center">💼 My Career</h2>
+<h2 align="center">📜 Certification</h2>
 
 <div align="center">
 
 <table>
-  <thead>
-    <tr>
-      <th>Org.</th>
-      <th>Description</th>
-      <th>Period</th>
-    </tr>
-  </thead>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://github.com/user-attachments/assets/1aa38d3c-f474-45e4-8f46-4c5b80228ffa" width="150"/>
+    </td>
+    <td align="left">
+      <b>AWS Certified Cloud Practitioner</b><br/>
+      Cloud Practitioner Foundational<br/>
+      <b>Issued:</b> 2025.03 &nbsp; <b>Expires:</b> 2028.03<br/>
+      <b>ID:</b> <code>CLF-C02</code>
+    </td>
+  </tr>
 
-  <tbody>
-
-    <tr>
-      <td><b>AWS Education</b></td>
-      <td>AWS Onsite Training & Visit</td>
-      <td>2025.02</td>
-    </tr>
-
-    <tr>
-      <td><b>Cloud Microdegree</b></td>
-      <td>초급 클라우드 마이크로디그리 교육 수료</td>
-      <td>2025.02</td>
-    </tr>
-
-    <tr>
-      <td><b>WeMeet Project</b></td>
-      <td>Azure 기반 LLM 프로젝트 및 Microsoft Korea Onsite Program 참여</td>
-      <td>2023.05 ~ 2025.07</td>
-    </tr>
-
-    <tr>
-      <td><b>Lotte Innovate Capstone</b></td>
-      <td>Lotte Innovate 협업 Capstone Project 진행 중 (In Progress)</td>
-      <td>2025.03 ~ Present</td>
-    </tr>
-
-  </tbody>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/TOPCIT-Level%204-red?style=for-the-badge" width="150"/>
+    </td>
+    <td align="left">
+      <b>TOPCIT (Test of Practical Competency in IT)</b><br/>
+      Level 4 · Score 711 / 1000<br/>
+      <b>Issued:</b> 2025.11.01 &nbsp; <b>Reg. No:</b> <code>TL2502002458</code>
+    </td>
+  </tr>
 </table>
 
 </div>
+
 
 <br><br>
 
