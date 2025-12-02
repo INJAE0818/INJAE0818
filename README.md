@@ -65,13 +65,7 @@
 
 <div align="center">
 <table style="width:80%; min-width:300px;">
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Org.</th>
-      <th>Period</th>
-    </tr>
-  </thead>
+  
 
   <tbody>
     <tr>
