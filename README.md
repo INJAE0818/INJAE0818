@@ -1,4 +1,4 @@
-<h1 align="center"> Hello INJAE! 👋 </h1>
+<h1 align="center"> Hello, I'm 인재 👋 </h1>
 
 <br>
 <div align="center">
