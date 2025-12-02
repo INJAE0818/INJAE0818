@@ -16,7 +16,8 @@
 
 <p align="center">
   <i>"Shell smashed, juices flowing, wings twitch."</i><br/>
-  떨리더라도 한 걸음 더 나아가는 용기를 가진 엔지니어입니다.</p>
+  떨리더라도 한 걸음 더 나아가는 용기를 가진 엔지니어입니다.
+</p>
 
 <br><br>
 
@@ -51,15 +52,12 @@
 
 </div>
 
-
 <br><br>
 
 <h2 align="center">🏆 Awards</h2>
 
 <div align="center">
 <table style="width:80%; min-width:300px;">
-  
-
   <tbody>
     <tr>
       <td><b>ERICA Library Annual Awards</b></td>
@@ -74,8 +72,6 @@
   </tbody>
 </table>
 </div>
-
-
 
 <br><br>
 
@@ -93,7 +89,24 @@
 
   <tbody>
     <tr>
-      <td colspan="2" align="center"><i>Academic & club activities will be added.</i></td>
+      <td><b>Coding Academic Club</b></td>
+      <td>교내 코딩 학술 동아리 활동 및 알고리즘·개발 스터디 참여</td>
+    </tr>
+    <tr>
+      <td><b>AWS Campus Program</b></td>
+      <td>AWS 교육 수강 및 Onsite Visit를 통한 클라우드 인프라 실습 경험</td>
+    </tr>
+    <tr>
+      <td><b>Azure AI Project & Visit</b></td>
+      <td>Azure 기반 AI 프로젝트 수행 및 Microsoft Korea 방문 프로그램 참여</td>
+    </tr>
+    <tr>
+      <td><b>HYPASS 중앙 축구동아리</b></td>
+      <td>교내 중앙 축구 동아리 HYPASS 소속, 팀 활동 및 교류전 참여</td>
+    </tr>
+    <tr>
+      <td><b>Cloud Fundamentals Microdegree</b></td>
+      <td>마이크로디그리를 통한 클라우드 초급 과정 수료</td>
     </tr>
   </tbody>
 
@@ -106,15 +119,10 @@
 <h2 align="center">🛠️ Main Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br><br>
-
-  <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SHELL-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLOUDWATCH-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 <br>
@@ -122,14 +130,9 @@
 <h2 align="center">📌 Sub Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/><br><br>
-
-  <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 <br><br>
@@ -137,5 +140,4 @@
 ## 📫 Contact Me
 
 📧 Email: 7evenmesrize@gmail.com  
-💼 LinkedIn: linkedin.com/in/yourname  
 📝 Blog: yourblog.dev
