@@ -44,28 +44,6 @@
       <b>ID:</b> <code>CLF-C02</code>
     </td>
   </tr>
-</table>
-
-</div>
-
-<br><br>
-
-<h2 align="center">📜 Certification</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="160">
-      <img src="https://github.com/user-attachments/assets/1aa38d3c-f474-45e4-8f46-4c5b80228ffa" width="150"/>
-    </td>
-    <td align="left">
-      <b>AWS Certified Cloud Practitioner</b><br/>
-      Cloud Practitioner Foundational<br/>
-      <b>Issued:</b> 2025.03 &nbsp; <b>Expires:</b> 2028.03<br/>
-      <b>ID:</b> <code>CLF-C02</code>
-    </td>
-  </tr>
 
   <tr>
     <td align="center" width="160">
