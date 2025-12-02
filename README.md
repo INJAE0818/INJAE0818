@@ -1,5 +1,4 @@
-<h1 align="center"> Hi there, I'm 인재 👋 </h1>  
-<br>
+<h1 align="center"> Hi, I'm 인재 👋 </h1>
 
 <p align="center">
   Cloud · DevOps · AWS Learner  
@@ -7,46 +6,54 @@
   Automating infrastructure, observing systems, and writing things down.
 </p>
 
-<br/>
+<br>
 
 <div align="center">
   <a href="https://your-link.com/resume.pdf" download>
-    <img src="https://img.shields.io/badge/RESUME-gray?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RESUME-555?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
   </a>
   <a href="https://your-link.com/portfolio.pdf" download>
-    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-blue?style=for-the-badge&logo=book&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-3572A5?style=for-the-badge&logo=book&logoColor=white"/>
   </a>
 </div>
 
-<br/><br/>
+<br><br>
 
-## About Me
+## <div align="center">About Me</div>
 
-Shell smashed, juices flowing, wings twitch.
+<p align="center">
+  <i>"Shell smashed, juices flowing, wings twitch."</i><br/>
+  시스템의 본질을 보고, 혼란을 질서로 만들고자 하는 엔지니어입니다.
+</p>
 
-<br/><br/>
+<br><br>
 
-<h2 align="center"> 📜 Certification </h2>
+<h2 align="center">📜 Certification</h2>
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/1aa38d3c-f474-45e4-8f46-4c5b80228ffa" width="250"/>
+    <td align="center" width="160">
+      <img src="https://github.com/user-attachments/assets/1aa38d3c-f474-45e4-8f46-4c5b80228ffa" width="150"/>
     </td>
-    <td>
-      <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><b>AWS Certified Cloud Practitioner</b></a><br/>
+    <td align="left">
+      <b>AWS Certified Cloud Practitioner</b><br/>
       Cloud Practitioner Foundational<br/>
-      <b>Issued:</b> 2025.03 &nbsp;&nbsp; <b>Expires:</b> 2028.03<br/>
+      <b>Issued:</b> 2025.03 &nbsp; <b>Expires:</b> 2028.03<br/>
       <b>ID:</b> <code>CLF-C02</code>
     </td>
   </tr>
 </table>
 
-<br/><br/>
+</div>
 
-<h2 align="center">My Career</h2>
+<br><br>
+
+<h2 align="center">💼 My Career</h2>
 
 <div align="center">
+
 <table>
   <thead>
     <tr>
@@ -78,59 +85,70 @@ Shell smashed, juices flowing, wings twitch.
 
     <tr>
       <td><b>Lotte Innovate Capstone</b></td>
-      <td>Lotte Innovate와 협업한 Capstone Project 진행 중 (In Progress)</td>
+      <td>Lotte Innovate 협업 Capstone Project 진행 중 (In Progress)</td>
       <td>2025.03 ~ Present</td>
     </tr>
 
   </tbody>
 </table>
+
 </div>
 
-<br/><br/>
+<br><br>
 
-<h2 align="center">Awards</h2>
+<h2 align="center">🏆 Awards</h2>
+
 <div align="center">
+
 <table>
   <thead>
     <tr>
-      <th>Title.</th>
+      <th>Title</th>
       <th>Org.</th>
-      <th>Period.</th>
+      <th>Period</th>
     </tr>
   </thead>
   <tbody>
-    <!-- 수상 내역 추가 예정 -->
+    <tr>
+      <td colspan="3" align="center"><i>No awards listed yet.</i></td>
+    </tr>
   </tbody>
 </table>
+
 </div>
 
-<br/><br/>
+<br><br>
 
-<h2 align="center">When I was University ..</h2>
+<h2 align="center">📚 When I was University ..</h2>
+
 <div align="center">
+
 <table>
   <thead>
     <tr>
-      <th>Title.</th>
+      <th>Title</th>
       <th>Description</th>
     </tr>
   </thead>
+
   <tbody>
-    <!-- 대학 시절 활동 추가 예정 -->
+    <tr>
+      <td colspan="2" align="center"><i>Academic & club activities will be added.</i></td>
+    </tr>
   </tbody>
+
 </table>
+
 </div>
 
-<br/><br/>
+<br><br>
 
 <h2 align="center">🛠️ Main Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-  <br/><br/>
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br><br>
 
   <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -141,14 +159,14 @@ Shell smashed, juices flowing, wings twitch.
   <img src="https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
+<br>
+
 <h2 align="center">📌 Sub Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-
-  <br/><br/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/><br><br>
 
   <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
@@ -156,7 +174,7 @@ Shell smashed, juices flowing, wings twitch.
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<br/><br/>
+<br><br>
 
 ## 📫 Contact Me
 
