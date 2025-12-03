@@ -15,8 +15,8 @@
 ## <div align="center">About Me</div>
 
 <p align="center">
-  <i>"Shell smashed, juices flowing, wings twitch."</i><br/>
-  떨리더라도 한 걸음 더 나아가는 용기를 가진 엔지니어입니다.
+  <i>"Shell smashed juices flowing"</i><br/>
+  떨리더라도 한 걸음 더 나아가는 
 </p>
 
 <br><br>
@@ -93,7 +93,7 @@
       <td>교내 코딩 학술 동아리 활동 및 알고리즘·개발 스터디 참여</td>
     </tr>
     <tr>
-      <td><b>AWS Campus Program</b></td>
+      <td><b>AWS Education & Visit </b></td>
       <td>AWS 교육 수강 및 Onsite Visit를 통한 클라우드 인프라 실습 경험</td>
     </tr>
     <tr>
