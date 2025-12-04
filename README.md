@@ -44,7 +44,7 @@
     </td>
     <td align="left">
       <b>TOPCIT (Test of Practical Competency in IT)</b><br/>
-      Level 4 · Score 711 / 1000<br/>
+      Level 4  / 1000<br/>
       <b>Issued:</b> 2025.11.01 &nbsp; <b>Reg. No:</b> <code>TL2502002458</code>
     </td>
   </tr>
