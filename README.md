@@ -15,8 +15,8 @@
 ## <div align="center">About Me</div>
 
 <p align="center">
-  <i>"Shell smashed juices flowing"</i><br/>
-  떨리더라도 한 걸음 더 나아가는 
+  <i>"Shell smashed"</i><br/>
+
 </p>
 
 <br><br>
