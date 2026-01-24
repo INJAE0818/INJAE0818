@@ -15,7 +15,7 @@
 ## <div align="center">About Me</div>
 
 <p align="center">
-  <i>"Shell smashed"</i><br/>
+  <i>Shell smashed</i><br/>
 
 </p>
 
