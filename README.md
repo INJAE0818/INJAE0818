@@ -48,6 +48,20 @@
       <b>Issued:</b> 2025.11.01 &nbsp; <b>Reg. No:</b> <code>TL2502002458</code>
     </td>
   </tr>
+
+
+   <tr>
+    <td align="center" width="160">
+      <img src="" width="150"/>
+    </td>
+    <td align="left">
+      <b>정보처리기사 (Engineer Information Processing)</b>
+      <b>Issued:</b> 2025.11.01 &nbsp; <b>Reg. No:</b> <code>TL2502002458</code>
+    </td>
+  </tr>
+
+
+  
 </table>
 
 </div>
