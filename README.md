@@ -52,7 +52,7 @@
 
    <tr>
     <td align="center" width="160">
-      <img src="" width="150"/>
+      <img src="https://mo.q-net.or.kr/getShareBadge.do?bdgId=JCtKKuXjfmtAgEUKNHNxlS" width="150"/>
     </td>
     <td align="left">
       <b>정보처리기사 (Engineer Information Processing)</b>
