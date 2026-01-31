@@ -108,7 +108,7 @@
     </tr>
     <tr>
       <td><b>AWS Education & Visit </b></td>
-      <td>AWS 교육 수강 및 Onsite Visit를 통한 클라우드 인프라 실습 경험</td>
+      <td>AWS 교육 수강 및 AWS KOREA 방문을 통한 클라우드 인프라 실습 경험</td>
     </tr>
     <tr>
       <td><b>Azure AI Project & Visit</b></td>
