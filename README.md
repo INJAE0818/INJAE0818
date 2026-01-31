@@ -120,7 +120,7 @@
     </tr>
     <tr>
       <td><b>Cloud Fundamentals Microdegree</b></td>
-      <td>마이크로디그리를 통한 클라우드 초급 과정 수료</td>
+      <td>클라우드 초급 마이크로디그리 수료</td>
     </tr>
   </tbody>
 
