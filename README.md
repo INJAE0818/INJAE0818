@@ -56,7 +56,7 @@
     </td>
     <td align="left">
       <b>정보처리기사 (Engineer Information Processing)</b>
-      <b>Issued:</b> 2025.12.24 &nbsp; <b>Reg. No:</b> 
+      <b>Issued:</b> 2025.12.24 &nbsp; <b> No:</b> 
     </td>
   </tr>
 
