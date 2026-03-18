@@ -75,9 +75,9 @@
       <img src="https://img.shields.io/badge/KBS%20Korean-Level%204%2B-6B7280?style=for-the-badge" width="150"/>
     </td>
     <td align="left">
-      <b>KBS 한국어능력시험 4+급</b><br/>
+      <b>KBS 한국어능력시험 4-급</b><br/>
       KBS Korean Language Test<br/>
-      <b>Grade:</b> Level 4+
+      <b>Grade:</b> Level 4-
     </td>
   </tr>
 </table>
