@@ -49,23 +49,40 @@
     </td>
   </tr>
 
-
-   <tr>
+  <tr>
     <td align="center" width="160">
       <img src="https://mo.q-net.or.kr/getShareBadge.do?bdgId=JCtKKuXjfmtAgEUKNHNxlS" width="150"/>
     </td>
     <td align="left">
-      <b>정보처리기사 (Engineer Information Processing)</b>
-      <b>Issued:</b> 2025.12.24 &nbsp; </b> 
+      <b>정보처리기사 (Engineer Information Processing)</b><br/>
+      <b>Issued:</b> 2025.12.24
     </td>
   </tr>
 
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Korean%20History-Level%201-1E3A8A?style=for-the-badge" width="150"/>
+    </td>
+    <td align="left">
+      <b>한국사능력검정시험 1급</b><br/>
+      Korean History Proficiency Test<br/>
+      <b>Grade:</b> Level 1
+    </td>
+  </tr>
 
-  
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/KBS%20Korean-Level%204%2B-6B7280?style=for-the-badge" width="150"/>
+    </td>
+    <td align="left">
+      <b>KBS 한국어능력시험 4+급</b><br/>
+      KBS Korean Language Test<br/>
+      <b>Grade:</b> Level 4+
+    </td>
+  </tr>
 </table>
 
 </div>
-
 <br><br>
 
 <h2 align="center">🏆 Awards</h2>
