@@ -20,13 +20,26 @@
 
 ## <div align="center">About Me</div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cc666e9f-37d2-41f2-8bbb-a23607af190b" width="240"/><br/><br/>
-  <b>축구로 우울할 필요 없어, 인생이 더 중요</b><br/><br/>
-  <img src="https://ac-o.namu.la/20240915sac/90bb7eee5dfbe5b3f1ff2884dad68de0ce2a003e7fc0a1f7d9d73721190cf671.jpg?expires=1773871399&key=_bGljIJ8x8Z9f7hJtTWrfQ&type=orig" width="300"/>
-</p>
+<div align="center">
 
-<br/><br/>
+<table>
+  <tr>
+    <td align="center" width="420">
+      <img src="https://github.com/user-attachments/assets/cc666e9f-37d2-41f2-8bbb-a23607af190b" width="360"/>
+    </td>
+    <td align="center" width="420">
+      <img src="여기에_두번째_이미지링크" width="360"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <b>축구로 우울할 필요 없어, 인생이 더 중요</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <h2 align="center">📜 Certifications</h2>
 
