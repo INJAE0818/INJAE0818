@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/TOPCIT-Level%204-red?style=for-the-badge" width="150"/>
     </td>
     <td align="left">
-      <b>TOPCIT (Test of Practical Competency in IT)</b><br/>
+      <b>TOPCIT(Test of Practical Competency in IT)</b><br/>
       Level 4 <br/>
       <b>Issued:</b> 2025.11.01 &nbsp; <b>Reg. No:</b> <code>TL2502002458</code>
     </td>
@@ -54,7 +54,7 @@
       <img src="https://mo.q-net.or.kr/getShareBadge.do?bdgId=JCtKKuXjfmtAgEUKNHNxlS" width="150"/>
     </td>
     <td align="left">
-      <b>정보처리기사 (Engineer Information Processing)</b><br/>
+      <b>정보처리기사</b><br/>
       <b>Issued:</b> 2025.12.24
     </td>
   </tr>
