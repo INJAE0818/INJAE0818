@@ -21,8 +21,8 @@
 ## <div align="center">About Me</div>
 
 <p align="center">
-  <img src="https://dcimg1.dcinside.com/viewimage.php?id=2cafc323ebd334a06d&no=24b0d769e1d32ca73fe985fa11d02831c5fc1f16261ec769f2489007c46ada21b1f723bd59be6e86fe529ec404d702d0600ac34fbcb0747cbf28523cba1248" width="240"/><br/><br/>
-  <b>코딩으로 우울할 필요 없어, 인생이 더 중요</b><br/><br/>
+  <img src="https://github.com/user-attachments/assets/cc666e9f-37d2-41f2-8bbb-a23607af190b" width="240"/><br/><br/>
+  <b>축구로 우울할 필요 없어, 인생이 더 중요</b><br/><br/>
   <img src="https://ac-o.namu.la/20240915sac/90bb7eee5dfbe5b3f1ff2884dad68de0ce2a003e7fc0a1f7d9d73721190cf671.jpg?expires=1773871399&key=_bGljIJ8x8Z9f7hJtTWrfQ&type=orig" width="300"/>
 </p>
 
