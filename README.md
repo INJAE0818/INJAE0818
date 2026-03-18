@@ -28,18 +28,18 @@
       <img src="https://github.com/user-attachments/assets/cc666e9f-37d2-41f2-8bbb-a23607af190b" width="360"/>
     </td>
     <td align="center" width="420">
-      <img src="여기에_두번째_이미지링크" width="360"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <b>축구로 우울할 필요 없어, 인생이 더 중요</b>
+      <img src="https://ac-o.namu.la/20240915sac/90bb7eee5dfbe5b3f1ff2884dad68de0ce2a003e7fc0a1f7d9d73721190cf671.jpg?expires=1773871399&key=_bGljIJ8x8Z9f7hJtTWrfQ&type=orig" width="360"/>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <b>축구로 우울할 필요 없어, 인생이 더 중요</b>
+</p>
+
 </div>
+
+<br/><br/>
 
 <h2 align="center">📜 Certifications</h2>
 
