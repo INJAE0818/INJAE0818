@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm 인재 👋</h1>
 
 <p align="center">
-  Cloud · Infra · Backend에 관심 있는 개발자
+  Cloud  개발자
 </p>
 
 <br/>
