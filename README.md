@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm 인재 👋</h1>
+<h1 align="center">SPORTS DESK</h1>
 
 <p align="center">
-  
+  <b>LIVE</b> · <b>BREAKING</b> · <b>FEATURE</b> · <b>ANALYSIS</b>
 </p>
 
 <div align="center">
@@ -18,59 +18,98 @@
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github.com/user-attachments/assets/cc666e9f-37d2-41f2-8bbb-a23607af190b" width="100%"/><br/><br/>
-      <h2>About Me</h2>
-      <p></p>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://ac-o.namu.la/20240915sac/90bb7eee5dfbe5b3f1ff2884dad68de0ce2a003e7fc0a1f7d9d73721190cf671.jpg?expires=1773871399&key=_bGljIJ8x8Z9f7hJtTWrfQ&type=orig" width="100%"/><br/><br/>
-      <h2></h2>
-      <p></p>
+    <td colspan="3" align="center">
+      <h2>BREAKING NEWS</h2>
+      <p>________________________________________</p>
     </td>
   </tr>
 
   <tr>
-    <td align="left" valign="top" width="50%">
-      <h2>📜 Certifications</h2>
-      <p></p>
+    <td colspan="2" align="center" valign="top" width="66%">
+      <br/>
+      <img src="https://placehold.co/900x420?text=MAIN+STORY" width="100%"/><br/><br/>
+      <h2>MAIN HEADLINE</h2>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+      <br/>
     </td>
-    <td align="left" valign="top" width="50%">
-      <h2>🏆 Awards</h2>
-      <p></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <h2>📚 University Experience</h2>
-      <p></p>
-    </td>
-    <td align="left" valign="top" width="50%">
-      <h2>🧩 More</h2>
-      <p></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h2>🛠️ Main Tech Stack</h2>
-      <p></p>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h2>📌 Sub Tech Stack</h2>
-      <p></p>
+    <td align="center" valign="top" width="34%">
+      <br/>
+      <img src="https://placehold.co/420x420?text=SIDE+STORY" width="100%"/><br/><br/>
+      <h3>SIDE HEADLINE</h3>
+      <p>________________________</p>
+      <p>________________________</p>
+      <p>________________________</p>
+      <br/>
     </td>
   </tr>
 
   <tr>
-    <td align="center" valign="top" width="50%">
-      <h2>📫 Contact</h2>
-      <p></p>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <img src="https://placehold.co/400x220?text=HIGHLIGHT" width="100%"/><br/><br/>
+      <h3>HIGHLIGHT</h3>
+      <p>________________________</p>
+      <p>________________________</p>
+      <br/>
     </td>
-    <td align="center" valign="top" width="50%">
-      <h2></h2>
-      <p></p>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <img src="https://placehold.co/400x220?text=SCOREBOARD" width="100%"/><br/><br/>
+      <h3>SCOREBOARD</h3>
+      <p>________________________</p>
+      <p>________________________</p>
+      <br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <img src="https://placehold.co/400x220?text=INTERVIEW" width="100%"/><br/><br/>
+      <h3>INTERVIEW</h3>
+      <p>________________________</p>
+      <p>________________________</p>
+      <br/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="top" width="33%">
+      <h3>ANALYSIS</h3>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+    </td>
+    <td align="left" valign="top" width="33%">
+      <h3>STATS</h3>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+    </td>
+    <td align="left" valign="top" width="33%">
+      <h3>REPORT</h3>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="left" valign="top" width="66%">
+      <h3>FEATURE STORY</h3>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+      <p>________________________________________</p>
+    </td>
+    <td align="left" valign="top" width="34%">
+      <h3>CONTACT</h3>
+      <p>________________________</p>
+      <p>________________________</p>
+      <p>________________________</p>
     </td>
   </tr>
 </table>
