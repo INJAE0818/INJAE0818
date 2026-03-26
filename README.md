@@ -32,12 +32,12 @@
 
   <tr>
     <td align="left" valign="top" width="24%">
-      <h2 style="margin-bottom:8px;">A personal archive of taste, mood, and memory</h2>
+      <h2>A personal archive of taste, mood, and memory</h2>
       <p>
-        여기에 너를 가장 잘 보여주는 짧은 소개문.<br/>
-        자기소개처럼 쓰지 말고 기사 리드문처럼 쓰면 좋음.<br/>
-        예: 축구, 음악, 영화, 기록을 좋아하는 사람.<br/>
-        조용하지만 분명한 취향을 오래 쌓아가는 중.
+        축구와 음악, 영화와 기록을 좋아하는 사람.<br/>
+        빠르게 소비되는 것보다 오래 남는 취향을 더 믿는다.<br/>
+        조용한 방식으로 좋아하는 것들을 모으고,<br/>
+        그 안에서 나만의 리듬을 만들어가는 중.
       </p>
       <p><small>Updated now</small></p>
     </td>
@@ -47,15 +47,16 @@
     </td>
 
     <td align="left" valign="top" width="24%">
-      <h3 style="margin-bottom:8px;">Side Note</h3>
+      <h3>Side Note</h3>
       <p>
-        여기는 메인 소개 옆에 붙는 짧은 문장용.<br/>
-        좋아하는 태도, 세계관, 한 줄 문장 등을 넣기 좋음.
+        화려한 사람보다는 분명한 취향을 가진 사람이 좋다.<br/>
+        말이 많지 않아도, 좋아하는 것들로 충분히 설명될 수 있다고 믿는다.
       </p>
       <hr/>
-      <h3 style="margin-bottom:8px;">Current Mood</h3>
+      <h3>Current Mood</h3>
       <p>
-        여기는 지금 좋아하는 팀, 앨범, 영화 등 짧게.
+        matchday clips, quiet jazz,<br/>
+        late-night films, saved notes
       </p>
     </td>
   </tr>
@@ -76,7 +77,10 @@
       <img src="https://placehold.co/800x420?text=FOOTBALL" width="100%"/>
       <h2>Football</h2>
       <p>
-        좋아하는 팀, 감독, 기억에 남는 경기, 응원 방식 등을 넣는 섹션.
+        축구는 결과보다 분위기로 더 오래 남는다.<br/>
+        경기 시작 전의 공기, 벤치의 표정, 관중석의 소음,<br/>
+        그리고 한 장면이 하루 전체의 감정을 바꾸는 순간을 좋아한다.<br/>
+        전술도 보지만 결국 기억에 남는 건 장면과 온도다.
       </p>
       <p><small>Club / Matchday / Notes</small></p>
     </td>
@@ -85,7 +89,10 @@
       <img src="https://placehold.co/800x420?text=MUSIC" width="100%"/>
       <h2>Music</h2>
       <p>
-        좋아하는 가수, 자주 듣는 앨범, 계절별 플레이리스트 감성 등을 넣는 섹션.
+        과한 장식보다 결이 좋은 음악을 오래 듣는다.<br/>
+        특히 피아노와 콘트라베이스가 살아 있는 재즈를 좋아하고,<br/>
+        밤에 조용히 반복해도 질리지 않는 곡들을 자주 저장해둔다.<br/>
+        기분을 바꾸기보다 하루의 결을 정리해주는 음악이 좋다.
       </p>
       <p><small>Artist / Album / Playlist</small></p>
     </td>
@@ -107,7 +114,9 @@
       <img src="https://placehold.co/520x300?text=FILM" width="100%"/>
       <h3>Film</h3>
       <p>
-        좋아하는 영화, 장면, 대사, 장르 취향.
+        큰 반전보다 분위기가 오래 남는 영화를 좋아한다.<br/>
+        장면의 색, 음악이 들어오는 타이밍,<br/>
+        끝나고도 마음에 잔상처럼 남는 영화들을 기억한다.
       </p>
       <p><small>Film Notes</small></p>
     </td>
@@ -116,7 +125,9 @@
       <img src="https://placehold.co/520x300?text=ARCHIVE" width="100%"/>
       <h3>Archive</h3>
       <p>
-        오래 좋아한 것들, 반복해서 보는 것들, 저장해두고 싶은 취향 기록.
+        좋았던 장면, 다시 보고 싶은 문장,<br/>
+        오래 남겨두고 싶은 취향을 천천히 저장한다.<br/>
+        기록은 기억을 붙잡는 방식이자, 나를 정리하는 습관이다.
       </p>
       <p><small>Saved / Collected / Revisited</small></p>
     </td>
@@ -125,7 +136,9 @@
       <img src="https://placehold.co/520x300?text=FAVOURITES" width="100%"/>
       <h3>Favourites</h3>
       <p>
-        계절, 음식, 장소, 분위기, 사진, 컬러 같은 사적인 취향 모음.
+        늦은 밤의 공기, 조용한 화면, 선명한 한 줄,<br/>
+        과하지 않은 색감, 반복해도 질리지 않는 것들.<br/>
+        취향은 작지만 꽤 오래 간다.
       </p>
       <p><small>Taste / Mood / Routine</small></p>
     </td>
@@ -147,24 +160,26 @@
       <img src="https://placehold.co/980x420?text=LONG+FEATURE" width="100%"/>
       <h2>Long Feature</h2>
       <p>
-        여기는 가장 길게 쓰는 섹션.<br/>
-        너를 설명하는 긴 문단 하나, 혹은 좋아하는 것들이 어떻게 이어지는지 쓰기 좋다.<br/>
-        예: 왜 축구를 좋아하게 됐는지, 왜 어떤 음악을 반복해서 듣는지, 기록하는 습관이 왜 중요한지.
+        나는 무언가를 아주 크게 드러내기보다, 오래 좋아하는 방식에 더 익숙하다.<br/>
+        축구에서는 승패보다 장면과 분위기를 기억하고, 음악에서는 하루의 감정을 정리해주는 결을 찾는다.<br/>
+        영화는 이야기가 끝난 뒤에도 남는 잔상 때문에 좋아하고, 기록은 그런 순간들을 흘려보내지 않기 위해 계속 남긴다.<br/>
+        결국 내가 좋아하는 것들은 전부 비슷한 방향을 보고 있다. 빠르게 소비되는 것보다 천천히 쌓이는 것, 시끄러운 취향보다 오래 가는 취향, 그리고 설명하지 않아도 나를 닮아 있는 것들.<br/>
+        INJAE DAILY는 그런 감각들을 모아두는 작은 개인 아카이브다.
       </p>
     </td>
 
     <td align="left" valign="top" width="34%">
       <h3>Now</h3>
-      <p>지금 자주 보는 것</p>
+      <p>match clips, saved screenshots, quiet notes</p>
       <hr/>
       <h3>Listening</h3>
-      <p>요즘 듣는 앨범/가수</p>
+      <p>jazz piano, contrabass, soft late-night tracks</p>
       <hr/>
       <h3>Watching</h3>
-      <p>요즘 보는 영화/콘텐츠</p>
+      <p>films with mood, silence, and strong aftertaste</p>
       <hr/>
       <h3>Reading the mood</h3>
-      <p>짧은 한 줄 메모</p>
+      <p>Some things stay with you longer because they arrive quietly.</p>
     </td>
   </tr>
 </table>
@@ -182,19 +197,19 @@
   <tr>
     <td align="left" valign="top" width="25%">
       <h3>Profile</h3>
-      <p>나를 소개하는 문장</p>
+      <p>조용하지만 선명한 취향으로 자신을 설명하는 사람</p>
     </td>
     <td align="left" valign="top" width="25%">
       <h3>Football</h3>
-      <p>팀, 선수, 감독, 분위기</p>
+      <p>장면, 분위기, 관중석의 소음까지 함께 기억하는 기록형 팬</p>
     </td>
     <td align="left" valign="top" width="25%">
       <h3>Music</h3>
-      <p>가수, 앨범, 재생목록</p>
+      <p>재즈와 잔잔한 사운드를 오래 반복해 듣는 편</p>
     </td>
     <td align="left" valign="top" width="25%">
       <h3>Film</h3>
-      <p>영화, 장면, 대사</p>
+      <p>이야기보다 여운과 장면의 온도를 더 오래 기억함</p>
     </td>
   </tr>
 </table>
