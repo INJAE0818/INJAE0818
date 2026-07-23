@@ -59,8 +59,8 @@
 - `SW융합인상(HYCA)`
 
 ### 🚀 취득 예정 (2026 하반기)
-- **[KISA 가점 3%]** `정보보안기사` - 8월 필기 응시
-- **[KISA 가점 3%]** `CPPG (개인정보관리사)` - 11월 목표
+-  `정보보안기사` - 8월 필기 응시
+-  `CPPG (개인정보관리사)` - 11월 목표
 - `AWS Certified Solutions Architect – Associate` - 7월 목표
 - `AWS Certified Security - Specialty` - 8월 목표
 - `ISRM (정보보호위험관리사)` - 8월 목표
